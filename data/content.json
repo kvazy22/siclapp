@@ -1,0 +1,50 @@
+{
+  "hero_title_en": "Professional Insulation Solutions",
+  "hero_title_ar": "حلول العزل المهنية",
+  "hero_subtitle_en": "Leading Saudi Arabian company specializing in advanced insulation technologies",
+  "hero_subtitle_ar": "الشركة الرائدة في المملكة العربية السعودية المتخصصة في تقنيات العزل المتطورة",
+  "hero_description_en": "From foundation to rooftop, we provide comprehensive insulation services including Polyurethane foam, Cementitious coating, Epoxy floors, and PVC waterproofing.",
+  "hero_description_ar": "من الأساس إلى السطح، نقدم خدمات عزل شاملة تشمل رغوة البولي يوريثان، والطلاء الأسمنتي، وأرضيات الإيبوكسي، والعزل المائي PVC.",
+  "hero_image": "",
+  "company_phone": "+966 50 123 4567",
+  "company_email": "info@sicl.com.sa",
+  "company_address_en": "Riyadh, Saudi Arabia",
+  "company_address_ar": "الرياض، المملكة العربية السعودية",
+  "cta_enabled": true,
+  "cta_text_en": "Get Quote",
+  "cta_text_ar": "احصل على عرض سعر",
+  "cta_url": "#contact",
+  "cta_icon": "ri-phone-line",
+  "cta_style": "primary",
+  "cta_target": "_self",
+  "profile_enabled": false,
+  "profile_text_en": "Our Profile",
+  "profile_text_ar": "ملفنا التعريفي",
+  "profile_icon": "ri-book-open-line",
+  "social_media": {
+    "linkedin": {
+      "enabled": true,
+      "url": "http://localhost:3000/admin",
+      "icon": "ri-linkedin-line",
+      "label": "LinkedIn"
+    },
+    "snapchat": {
+      "enabled": true,
+      "url": "http://localhost:3000/admin",
+      "icon": "ri-snapchat-line",
+      "label": "Snapchat"
+    },
+    "instagram": {
+      "enabled": false,
+      "url": "#",
+      "icon": "ri-instagram-line",
+      "label": "Instagram"
+    },
+    "whatsapp": {
+      "enabled": false,
+      "url": "#",
+      "icon": "ri-whatsapp-line",
+      "label": "WhatsApp"
+    }
+  }
+}

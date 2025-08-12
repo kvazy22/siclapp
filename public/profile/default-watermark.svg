@@ -1,0 +1,13 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="watermarkPattern" x="0" y="0" width="200" height="100" patternUnits="userSpaceOnUse">
+      <text x="100" y="50" font-family="Arial, sans-serif" font-size="12" fill="#ff0000" fill-opacity="0.3" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30 100 50)">
+        SICL SECURE
+      </text>
+      <text x="100" y="70" font-family="Arial, sans-serif" font-size="8" fill="#ff0000" fill-opacity="0.2" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30 100 70)">
+        CONFIDENTIAL
+      </text>
+    </pattern>
+  </defs>
+  <rect width="200" height="100" fill="url(#watermarkPattern)" opacity="0.1"/>
+</svg>

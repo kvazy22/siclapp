@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "ENG. Hassan Abdulsalam Shafie",
+    "designation": "General Manager",
+    "photo": "/team/default-avatar.svg"
+  },
+  {
+    "id": "2",
+    "name": "ENG. Mustafa Khalid",
+    "designation": "C.E.O",
+    "photo": "/team/default-avatar.svg"
+  },
+  {
+    "id": "3",
+    "name": "ENG. Othman Ahmed",
+    "designation": "Marketing Manager",
+    "photo": "/team/default-avatar.svg"
+  },
+  {
+    "id": "4",
+    "name": "Nadeem Hussain",
+    "designation": "IT Expert",
+    "photo": "/team/nadeem.jpg"
+  },
+  {
+    "id": "1753657813206",
+    "name": "Al Ameen",
+    "designation": "Accountant",
+    "photo": "http://localhost:3000/sicl-logo.png"
+  },
+  {
+    "name": "Eng.Yahya Khairi",
+    "designation": "Quantity Manager",
+    "photo": "http://localhost:3000/sicl-logo.png",
+    "id": "1753686620809"
+  },
+  {
+    "name": "Waleed sweed",
+    "designation": "Project Manager",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcToYHme4B8qXDIfNyWyZ94Qq40KDBCwznMQ&s",
+    "id": "1753866520778"
+  }
+]

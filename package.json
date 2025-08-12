@@ -1,0 +1,43 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
+  "dependencies": {
+    "@react-google-maps/api": "^2.19.3",
+    "@types/nodemailer": "^6.4.17",
+    "aos": "^2.3.4",
+    "bcryptjs": "^3.0.2",
+    "express-rate-limit": "^8.0.1",
+    "framer-motion": "^12.23.10",
+    "gsap": "^3.13.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "next": "15.3.2",
+    "nodemailer": "^7.0.5",
+    "pdfjs-dist": "^5.4.54",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^3.0.2",
+    "sharp": "^0.34.3",
+    "turn.js": "^1.0.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/aos": "^3.0.7",
+    "@types/bcryptjs": "^3.0.0",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "cross-env": "^7.0.3",
+    "eslint": "^9.32.0",
+    "postcss": "^8.5.5",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "FOSROC constructive solutions",
+    "logo": "/partners/fosroc-constructive.png",
+    "description": "Leading construction chemicals and solutions provider"
+  },
+  {
+    "id": 2,
+    "name": "Henkel",
+    "logo": "/partners/henkel.png",
+    "description": "Global leader in adhesives, sealants and functional coatings"
+  },
+  {
+    "id": 3,
+    "name": "KPI Kuwait Polyurethane Industry Co.",
+    "logo": "/partners/kpi.png",
+    "description": "Kuwait Polyurethane Industry Company"
+  },
+  {
+    "id": 4,
+    "name": "weber SAINT-GOBAIN",
+    "logo": "/partners/weber-saint-gobain.png",
+    "description": "Building materials and construction solutions"
+  },
+  {
+    "id": 5,
+    "name": "CIC POWERFUL PROTECTION",
+    "logo": "/partners/cic.png",
+    "description": "Construction and industrial coatings"
+  },
+  {
+    "id": 6,
+    "name": "Sika",
+    "logo": "/partners/sika.png",
+    "description": "Specialty chemicals for construction and industry"
+  },
+  {
+    "id": 7,
+    "name": "Arki Advanced Construction Chemicals",
+    "logo": "/partners/arki.png",
+    "description": "Advanced construction chemical solutions"
+  },
+  {
+    "id": 8,
+    "name": "Al Ayuni Investment & Contracting Co.",
+    "logo": "/partners/al-ayuni.png",
+    "description": "Investment and contracting services"
+  },
+  {
+    "id": 9,
+    "name": "Saudi Central Bank",
+    "logo": "/partners/saudi-central-bank.png",
+    "description": "Central bank of Saudi Arabia"
+  },
+  {
+    "id": 10,
+    "name": "United Contracting Company",
+    "logo": "/partners/united-contracting.png",
+    "description": "Construction and contracting services"
+  },
+  {
+    "id": 11,
+    "name": "BUILCHEM",
+    "logo": "/partners/builchem.png",
+    "description": "Building chemicals and materials"
+  },
+  {
+    "id": 12,
+    "name": "Al Oula Al Dar",
+    "logo": "/partners/al-oula-al-dar.png",
+    "description": "Real estate and development company"
+  },
+  {
+    "id": 13,
+    "name": "FOSROC",
+    "logo": "/partners/fosroc.png",
+    "description": "Construction chemicals and solutions"
+  },
+  {
+    "id": 14,
+    "name": "AWAZEL",
+    "logo": "/partners/awazel.png",
+    "description": "Insulation and waterproofing solutions"
+  },
+  {
+    "id": 15,
+    "name": "EMECO Electrical & Mechanical Services",
+    "logo": "/partners/emeco.png",
+    "description": "Electrical and mechanical services"
+  },
+  {
+    "id": 16,
+    "name": "Manifa Petroleum Services",
+    "logo": "/partners/manifa.png",
+    "description": "Petroleum and oil services"
+  },
+  {
+    "id": 17,
+    "name": "Qadib",
+    "logo": "/partners/qadib.png",
+    "description": "Construction and development services"
+  },
+  {
+    "id": 18,
+    "name": "EMAR ALJANOUR",
+    "logo": "/partners/emar-aljanour.png",
+    "description": "Real estate development and construction"
+  },
+  {
+    "id": 19,
+    "name": "ddd",
+    "logo": "http://localhost:3000/sicl-logo.png",
+    "description": "dddd"
+  }
+]

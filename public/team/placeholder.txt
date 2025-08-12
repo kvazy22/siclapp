@@ -1,0 +1,16 @@
+Team Member Photos Directory
+
+This directory should contain the following photos for team members:
+
+1. hassan.jpg - ENG. Hassan Abdulsalam Shafie (General Manager)
+2. mustafa.jpg - ENG. Mustafa Khalid (C.E.O)
+3. othman.jpg - ENG. Othman Ahmed (Marketing Manager)
+4. nadeem.jpg - Nadeem Hussain (IT Expert)
+
+Photo specifications:
+- Format: JPG or PNG
+- Size: 400x400 pixels (square)
+- Quality: High resolution
+- Style: Professional headshots with neutral background
+
+Until actual photos are provided, the system will use the default avatar SVG. 
